@@ -1,2 +1,3 @@
 # mMotiv8
-IOS application that helps patients manage their smoking behavior. 
+IOS app that captures the smoking behavior of patients.
+

@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Template
+
+  Created by Pulkit Rohilla on 21/06/17.
+  Copyright © 2017 PulkitRohilla. All rights reserved.
+*/
+"AppName"= "Template";
+
+"btnOldUser" = "Already have an account? Login";
+"btnNewUser" = "Don't have an account? Sign Up"
